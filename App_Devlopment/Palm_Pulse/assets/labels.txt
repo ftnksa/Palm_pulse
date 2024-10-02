@@ -1,0 +1,9 @@
+Palm__healthy
+Palm__Black_Scorch
+Palm__Fusarium_Wilt
+Palm__Leaf_Spots
+Palm__Magnesium_Deficiency
+Palm__Manganese_Deficiency
+Palm__Parlatoria_Blanchardi
+Palm__Potassium_Deficiency
+Palm__Rachis_Blight
